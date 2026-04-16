@@ -1,36 +1,88 @@
-### Hi there, I'm Aarya Soni 👋 
+# Hi there, I'm Aarya Soni 👋  
 
-- 🏫 I am a Second Year B Tech Student at Indira Gandhi Technical University for Women
-- 📗 I enjoy creating Websites
-- 🧑‍💻 I am a competitive programmer
-
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
-<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>
-<img align="left" alt="Cplusplus" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"/>
-<img align="left" width="60px" alt="CSS" src="https://github.com/user-attachments/assets/353109a4-0c03-48e5-8ccf-2ae542e8c264"/>
-<img align="left" width="70px" alt="HTML" src="https://github.com/user-attachments/assets/a16585c0-d786-4b34-8728-651e61604f06"/>
-<img align="left" width="70px" alt="Javascript" src="https://github.com/user-attachments/assets/0251507a-3bdf-4ef0-972e-d870157392c4"/>
-
-
-<br />
-<br />
+🎓 B.Tech (IT) @ Indira Gandhi Delhi Technical University for Women  
+🧠 Former Research Intern @ DRDO (Neurocomputing & AI)  
+💻 Full Stack Developer | 🤖 AI/ML Enthusiast | ⚡ Competitive Programmer  
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## 🚀 About Me  
 
-  <img align="left" alt="Piyush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AaryaSoni-web&&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=daf7dc&bg_color=151515" />
+- 🔬 Worked on **EEG signal analysis & ML models** during DRDO internship  
+- 🧠 Interested in **AI, LLMs, RAG, and real-world intelligent systems**  
+- 🌐 Love building **scalable full-stack web applications**  
+- ⚡ Active in **Data Structures & Algorithms / Competitive Programming**  
 
-</details>
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+C • C++ • Python • Java • JavaScript  
+
+### 🌐 Web Development  
+HTML • CSS • React.js • Node.js • Express.js  
+
+### 🤖 AI / ML  
+Machine Learning • LLMs • RAG • EEG Data Processing  
+
+### 🗄️ Databases  
+MySQL • RDBMS  
+
+### ⚙️ Tools  
+Git • GitHub • VS Code • Jupyter • Bootstrap • npm  
+
+---
+
+## 📌 Featured Projects  
+
+### 🧠 PRANA – Neuro Aviation Readiness System  
+- EEG + ECG data processing pipeline  
+- ML models: Logistic Regression, Random Forest, SVM  
+- Feature extraction, classification & performance evaluation  
+
+👉 https://github.com/AaryaSoni-web/PRANA-Predictive-Readiness-Analysis-of-Neuro-Aviation-  
+
+---
+
+### 🛡️ NeuraShield AI – WebSecOps Automation  
+- RAG-based **AI code vulnerability analyzer**  
+- CI/CD integration using GitHub Actions  
+- LLM-powered security insights  
+
+👉 https://github.com/AaryaSoni-web/neurashield_AI  
+
+---
+
+### 🎓 Academetrix (ResultHub)  
+- Full-stack academic result platform  
+- React + Node.js + MySQL  
+- Scalable & responsive design  
+
+👉 https://github.com/AaryaSoni-web/ACADEMETRIX  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 National Winner – Western Digital Innovation Bazar 2025  
+- 🧪 Research Intern @ DRDO (5 months, Neurocomputing & AI)  
+- 📜 Strong foundation in **DSA + System Design + AI Systems**  
+
+---
+
+## 📊 GitHub Stats  
+
+![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaryaSoni-web&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me  
+
+- 💼 LinkedIn: https://linkedin.com/in/aarya-soni-0b0097294/  
+- 💻 GitHub: https://github.com/AaryaSoni-web  
+- 📧 Email: aarya4soni@gmail.com  
+
+---
+
+⭐ *"Building intelligent systems that bridge AI and real-world impact."*
